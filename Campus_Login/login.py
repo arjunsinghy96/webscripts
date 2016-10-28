@@ -1,8 +1,4 @@
 #!/usr/bin/python
-
-
-'''This program is to automote the network login in SMVD University'''
-
 from __future__ import print_function
 from sys import exit
 
